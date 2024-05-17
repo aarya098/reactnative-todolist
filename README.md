@@ -71,14 +71,14 @@ yarn start or yarn expo start
 ```
 
 
-**
-Contributing**
+
+**Contributing**
 Contributions are always welcome! Please create a pull request to add features, improve code quality, or fix bugs.
 
 **License**
 This project is licensed under the MIT License.
-**
-Contact**
+
+**Contact**
 If you want to contact me, you can reach me at your aaryab@karunya.edu.in.
 
 Feel free to customize the sections to better fit your project and personal preferences.
